@@ -2,4 +2,4 @@ This project analyzes COVID-19 patient data to identify key trends, comorbiditie
 
 The project was developed as part of a data science curriculum and is intended for educational and exploratory purposes.
 
-Disclaimer: All patient data used in this project is synthetic and does not represent real individuals. 
+#### Disclaimer: All patient data used in this project is synthetic and does not represent real individuals. 
